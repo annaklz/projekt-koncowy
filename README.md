@@ -1,4 +1,5 @@
-# Projekt końcowy na studia podyplomowe Java web developer
+# **Projekt końcowy**
+# na studia podyplomowe Java web developer
 ## Autor: Anna Kluza
 
 ## Nazwa projektu: strona konferencyjna
